@@ -64,9 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Challenge laravel
-- **[Descargar el proyecto.]**
-- **[Configurar el archivo .env con su base de datos..]**
-- **[Ejecutar php artisan serve]**
-- **[Ingresar al sistema con un usuario pre cargado en la base de datos.]**
-- **[Se realizo lel funcionamiento para cambiar el idioma en la esquina superior.]**
+- **Descargar el proyecto.**
+- **Configurar el archivo .env con su base de datos..**
+- **Ejecutar php artisan serve**
+- **Ingresar al sistema con un usuario pre cargado en la base de datos.**
+- **Se realizo el funcionamiento para cambiar el idioma en la esquina superior.**
 
